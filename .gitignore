@@ -1,0 +1,5 @@
+*.o
+*.swp
+.DS_Store
+screenshot-*.png
+gallery/best*.png
