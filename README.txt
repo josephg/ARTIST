@@ -1,3 +1,10 @@
+Modified by Joseph Gentle to allow a starting image.
+Put your starting image of choice in resource/stage/glitch.png and press 'j' to art.
+
+
+----
+
+
 BECOME A GREAT ARTIST IN JUST 10 SECONDS
 With Andi and Michael
 
